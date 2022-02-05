@@ -45,15 +45,102 @@ Throughout the course, we encourage you to do the following:
 
 1.  _Evaluation Criteria_
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Daily Grade {{< br >}}{{< br >}} (Three lowest daily scores will be dropped.) {{< br >}}{{< br >}}  | 20% |
-|  {{< br >}}{{< br >}} 単 (たん) 語・漢 (かん) 字クイズ Vocabulary and Kanji Quizzes {{< br >}}{{< br >}} (Two lowest scores will be dropped.) {{< br >}}{{< br >}}  | 10% |
-|  {{< br >}}{{< br >}} 試験 Four Lesson Quizzes {{< br >}}{{< br >}} (One lowest score will be dropped.) {{< br >}}{{< br >}}  | 20% |
-| One-hour Exam | 10% |
-| Two Interview Tests | 15% |
-| 宿題 Homework | 10% |
-| 作文と発表 Two Essays and One Presentation | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Daily Grade
+
+(Three lowest daily scores will be dropped.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+単 (たん) 語・漢 (かん) 字クイズ Vocabulary and Kanji Quizzes
+
+(Two lowest scores will be dropped.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+試験 Four Lesson Quizzes
+
+(One lowest score will be dropped.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One-hour Exam
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Interview Tests
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+宿題 Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+作文と発表 Two Essays and One Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 *   Daily Grade
 
@@ -78,24 +165,194 @@ There are four lesson quizzes (25 minutes long), two interview tests, and a one-
 You will write two essays and conduct a 5-minute presentation based on the second essay. Details will be announced in class.
 
 4.  _Grading Scale_
-| &nbsp; | A = 94% and above | A- = 93.99–90% |
-| B+ = 89.99–87% | B = 86.99–84% | B- = 83.99–80% |
-| C+ = 79.99–77% | C = 76.99–74% | C- = 73.99–70% |
-| D+ = 69.99–67% | D = 66.99–64% | D- = 63.99–60% |
-| F = 59.99% and below | &nbsp; |     
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+A = 94% and above
+{{< tdclose >}}
+{{< tdopen >}}
+A- = 93.99–90%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B+ = 89.99–87%
+{{< tdclose >}}
+{{< tdopen >}}
+B = 86.99–84%
+{{< tdclose >}}
+{{< tdopen >}}
+B- = 83.99–80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C+ = 79.99–77%
+{{< tdclose >}}
+{{< tdopen >}}
+C = 76.99–74%
+{{< tdclose >}}
+{{< tdopen >}}
+C- = 73.99–70%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D+ = 69.99–67%
+{{< tdclose >}}
+{{< tdopen >}}
+D = 66.99–64%
+{{< tdclose >}}
+{{< tdopen >}}
+D- = 63.99–60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F = 59.99% and below
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+  
 7.  _Daily Grade_
 
 Students will receive a daily grade based on their performance evaluated with the following criteria:
 
-| Grade | PERFORMANCE | PREPARATION | PARTICIPATION/CONTRIBUTION |
-| --- | --- | --- | --- |
-| 10 | Excellent/near perfect | Excellent | Very active/excellent |
-| 9 | Strong/minor errors | Good | Consistent |
-| 8 | Fair but needs improvement | Adequate | Adequate but needs improvement |
-| 7 | Weak/with mistakes in major areas | Some | Sporadic |
-| 6 | Unsatisfactory | Inadequate | Infrequent |
-| 5 | Present but very poor | None | Seldom |
-| 0 || {{< td-colspan 4 >}}Absent{{< /td-colspan >}} |||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Grade
+{{< thclose >}}
+{{< thopen >}}
+PERFORMANCE
+{{< thclose >}}
+{{< thopen >}}
+PREPARATION
+{{< thclose >}}
+{{< thopen >}}
+PARTICIPATION/CONTRIBUTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Excellent/near perfect
+{{< tdclose >}}
+{{< tdopen >}}
+Excellent
+{{< tdclose >}}
+{{< tdopen >}}
+Very active/excellent
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Strong/minor errors
+{{< tdclose >}}
+{{< tdopen >}}
+Good
+{{< tdclose >}}
+{{< tdopen >}}
+Consistent
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Fair but needs improvement
+{{< tdclose >}}
+{{< tdopen >}}
+Adequate
+{{< tdclose >}}
+{{< tdopen >}}
+Adequate but needs improvement
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Weak/with mistakes in major areas
+{{< tdclose >}}
+{{< tdopen >}}
+Some
+{{< tdclose >}}
+{{< tdopen >}}
+Sporadic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Unsatisfactory
+{{< tdclose >}}
+{{< tdopen >}}
+Inadequate
+{{< tdclose >}}
+{{< tdopen >}}
+Infrequent
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Present but very poor
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+{{< tdopen >}}
+Seldom
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen colspan="4" >}}
+Absent
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 10.  _Attendance Policy_
     1.  Attend all sessions. Because of the cumulative nature of language learning, it is essential that you attend all sessions and keep up with the course work on a daily basis. Please follow the online daily schedule and come to class well-prepared.
